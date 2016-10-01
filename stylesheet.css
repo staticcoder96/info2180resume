@@ -1,0 +1,44 @@
+body{
+	background-color: pink;
+}
+
+div{
+	position:center;
+	margin:auto;
+	
+	
+}
+h2{
+	
+	
+}
+#name{
+	font-style: bold;
+	
+	
+}
+#number{
+	font-family:Courier;
+	font-style:bold;
+	font-size:30px;
+	
+}
+#myself{
+	font-family:Verdana;
+	font-size:45px;
+	
+}
+.left{
+	float:left;
+	font-family: Courier;
+	font-size:60px;
+	
+}
+.picture img{ 
+	position:absolute;
+	top: 5%;
+	right: 5%;
+	height:200px;
+	width: 200px;
+	
+}
